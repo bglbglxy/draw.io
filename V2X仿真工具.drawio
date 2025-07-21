@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="2Bufaen2Vc_g4Hj0Wt3B">
-    <mxGraphModel dx="2893" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3720" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,19 +164,85 @@
           <mxGeometry x="-360" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ls5S6Hzu5uZS-a2wvy2--2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="1600" width="40" height="60" as="geometry" />
+          <mxGeometry x="-890" y="1480" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="ls5S6Hzu5uZS-a2wvy2--4" value="观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ls5S6Hzu5uZS-a2wvy2--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="1430" width="120" height="60" as="geometry" />
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--6" value="三维地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ls5S6Hzu5uZS-a2wvy2--7" value="控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-630" y="1724" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ls5S6Hzu5uZS-a2wvy2--8" value="二次开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="-630" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--9" value="全局视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--10" value="第一人称车视角" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--11" value="二维平面地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--12" value="局部放大缩小" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--13" value="V2X日志信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--14" value="实时展示V2X场景信息+个性过滤配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--16" value="控制车接入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1664" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--17" value="按照需求载入1-6个车, 部分场景有一个最低车的数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1664" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--18" value="更换地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--19" value="内置多套地图,同时也可以按照用户要求生成新的地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1770" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--20" value="场景重现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--21" value="按照内置场景,重置车的初始位置和行驶线路,强制实现某个场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1880" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--23" value="随机触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--24" value="载入1-6个车后, 随机触发V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1990" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--25" value="数据分析和导出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--26" value="以txt方式导出车的信息,V2X信息,场景信息, 性能指标等,用于分析和二次开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2100" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--27" value="后端二次开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--28" value="V2X二次开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--29" value="前端二次开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--30" value="不允许二次开发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2480" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--31" value="提供基于python+matplotlib的二次开发,用于研究,&lt;b&gt;但是不可替代原服务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2250" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--32" value="提供V2X板子的程序替换, 替换后可代入到环境内验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="2360" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
