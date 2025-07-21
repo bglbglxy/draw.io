@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="2Bufaen2Vc_g4Hj0Wt3B">
-    <mxGraphModel dx="2252" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,19 +40,37 @@
           <mxGeometry x="-70" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="-775" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-2" target="FZnhdKNDYV_imhR_eTHI-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-2" value="后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-360" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-3" target="FZnhdKNDYV_imhR_eTHI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-3" value="V2X" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-40" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-4" target="FZnhdKNDYV_imhR_eTHI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-4" target="FZnhdKNDYV_imhR_eTHI-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-4" value="仿真车辆位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-5" target="FZnhdKNDYV_imhR_eTHI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-5" value="三维展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-6" target="FZnhdKNDYV_imhR_eTHI-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-6" value="二维展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="850" width="120" height="60" as="geometry" />
@@ -60,44 +78,87 @@
         <mxCell id="FZnhdKNDYV_imhR_eTHI-7" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="750" width="80" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-8" value="仿真红绿灯,行人,道闸" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-9" value="更新地图OSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="420" width="920" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-10" target="FZnhdKNDYV_imhR_eTHI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-10" value="地图OSM+背景图-&amp;gt;二维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="510" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-11" target="FZnhdKNDYV_imhR_eTHI-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-11" value="OSM建模转化-&amp;gt;三维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="600" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-12" target="FZnhdKNDYV_imhR_eTHI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-12" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-13" target="FZnhdKNDYV_imhR_eTHI-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-13" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-14" target="FZnhdKNDYV_imhR_eTHI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-14" value="OSM识别分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-15" target="FZnhdKNDYV_imhR_eTHI-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-15" value="OSM转asn.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-17" target="FZnhdKNDYV_imhR_eTHI-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-17" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="750" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-18" target="FZnhdKNDYV_imhR_eTHI-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-18" value="V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-19" target="FZnhdKNDYV_imhR_eTHI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-19" value="仿真智能驾驶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-20" target="FZnhdKNDYV_imhR_eTHI-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-20" value="仿真V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-21" value="坐标转化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="750" width="60" height="60" as="geometry" />
+          <mxGeometry x="-420" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FZnhdKNDYV_imhR_eTHI-22" value="随机性展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1120" width="120" height="60" as="geometry" />
