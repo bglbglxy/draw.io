@@ -39,129 +39,144 @@
         <mxCell id="hUOe4CgwV009XfnV-HnH-8" value="PC2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-1" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-775" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-2" target="FZnhdKNDYV_imhR_eTHI-4">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-2" target="FZnhdKNDYV_imhR_eTHI-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-2" value="后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-2" value="后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-360" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-3" target="FZnhdKNDYV_imhR_eTHI-17">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-3" target="FZnhdKNDYV_imhR_eTHI-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-3" value="V2X" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-3" value="V2X" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-40" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-4" target="FZnhdKNDYV_imhR_eTHI-13">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-4" target="FZnhdKNDYV_imhR_eTHI-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-4" target="FZnhdKNDYV_imhR_eTHI-8">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-4" target="FZnhdKNDYV_imhR_eTHI-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-4" value="仿真车辆位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-4" value="仿真车辆位置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-5" target="FZnhdKNDYV_imhR_eTHI-1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FZnhdKNDYV_imhR_eTHI-5" target="FZnhdKNDYV_imhR_eTHI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-5" value="三维展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-5" value="三维展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-6" target="FZnhdKNDYV_imhR_eTHI-1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-6" target="FZnhdKNDYV_imhR_eTHI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-6" value="二维展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-6" value="二维展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-7" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-7" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-500" y="750" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-7">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-12">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-19">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-8" target="FZnhdKNDYV_imhR_eTHI-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-8" value="仿真红绿灯,行人,道闸" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-8" value="仿真红绿灯,行人,道闸" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-9" value="更新地图OSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-9" value="更新地图OSM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="420" width="920" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-10" target="FZnhdKNDYV_imhR_eTHI-11">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-10" target="FZnhdKNDYV_imhR_eTHI-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-10" value="地图OSM+背景图-&amp;gt;二维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-10" value="地图OSM+背景图-&amp;gt;二维" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="510" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-11" target="FZnhdKNDYV_imhR_eTHI-1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-11" target="FZnhdKNDYV_imhR_eTHI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-11" value="OSM建模转化-&amp;gt;三维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-11" value="OSM建模转化-&amp;gt;三维" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="600" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-12" target="FZnhdKNDYV_imhR_eTHI-3">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-12" target="FZnhdKNDYV_imhR_eTHI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-12" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-12" value="MQTT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-13" target="FZnhdKNDYV_imhR_eTHI-3">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-13" target="FZnhdKNDYV_imhR_eTHI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-13" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-13" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-14" target="FZnhdKNDYV_imhR_eTHI-2">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-14" target="FZnhdKNDYV_imhR_eTHI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-14" value="OSM识别分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-14" value="OSM识别分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-15" target="FZnhdKNDYV_imhR_eTHI-3">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FZnhdKNDYV_imhR_eTHI-15" target="FZnhdKNDYV_imhR_eTHI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-15" value="OSM转asn.1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-15" value="OSM转asn.1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-17" target="FZnhdKNDYV_imhR_eTHI-18">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-17" target="FZnhdKNDYV_imhR_eTHI-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-17" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-17" value="UDP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="750" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-18" target="FZnhdKNDYV_imhR_eTHI-20">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-18" target="FZnhdKNDYV_imhR_eTHI-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-18" value="V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-18" value="V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-19" target="FZnhdKNDYV_imhR_eTHI-20">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FZnhdKNDYV_imhR_eTHI-19" target="FZnhdKNDYV_imhR_eTHI-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-19" value="仿真智能驾驶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-19" value="仿真智能驾驶" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZnhdKNDYV_imhR_eTHI-20" target="FZnhdKNDYV_imhR_eTHI-22">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FZnhdKNDYV_imhR_eTHI-20" target="FZnhdKNDYV_imhR_eTHI-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-20" value="仿真V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-20" value="仿真V2X场景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-21" value="坐标转化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-21" value="坐标转化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="750" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FZnhdKNDYV_imhR_eTHI-22" value="随机性展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FZnhdKNDYV_imhR_eTHI-22" value="随机性展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="1600" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--4" value="观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--7" value="控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ls5S6Hzu5uZS-a2wvy2--8" value="二次开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
